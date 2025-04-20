@@ -6,14 +6,19 @@
 
 ### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
-
-🎯 Backend Developer experienced in building scalable services using Java, Kotlin, and PHP.  
-📱 Also experienced in mobile development using Kotlin Multiplatform and Android.  
-☁️ Passionate about software architecture, clean code practices, and cloud deployment with AWS.  
-🚀 Always eager to learn and enhance my technical skills.
+<table>
+  <tr>
+    <td>
+🎯 Backend Developer experienced in building scalable services using Java, Kotlin, and PHP.
+📱 Also experienced in mobile development with Kotlin Multiplatform and native Android.
+☁️ Passionate about software architecture, clean code, and deploying services to the cloud with AWS.
+🚀 Always eager to learn and improve my technical skills.
+  </td>
+  <td align="center">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="backend developer animation"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
