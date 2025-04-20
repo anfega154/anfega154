@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Andrés Felipe Gañán</h1>
-<h3 align="center">Desarrollador Backend & Móvil apasionado por crear soluciones escalables</h3>
+<h3 align="center">Desarrollador Backend & Móvil apasionado por crear soluciones de valor</h3>
 
 ---
 
@@ -27,8 +27,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anfega&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfega&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anfega154&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfega154&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -37,6 +37,6 @@
 
 - ✉️ Email: anfega@outlook.es  
 - 📍 Bello, Colombia  
-- 💼 LinkedIn: [linkedin.com/in/anfega](https://linkedin.com/in/anfega)
+- 💼 LinkedIn: https://www.linkedin.com/in/andres-felipe-ga%C3%B1an-moreno-a6a66016b/
 
 ---
