@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Andrés Felipe Gañán</h1>
-<h3 align="center">Backend & Mobile Developer passionate about delivering valuable solutions</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Andr%C3%A9s+Felipe+Gañán;Backend+%26+Mobile+Developer;Passionate+about+clean+architecture+and+scalable+systems" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
 🎯 Backend Developer experienced in building scalable services using Java, Kotlin, and PHP.  
 📱 Also experienced in mobile development using Kotlin Multiplatform and Android.  
